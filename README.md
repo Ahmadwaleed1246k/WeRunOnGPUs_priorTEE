@@ -1,4 +1,4 @@
-# 🎓 OppRank – AI Opportunity Inbox Copilot
+# 🎓 PrioirTEE
 
 **Parse, rank, and prioritize scholarship, internship, and competition emails – no API key required.**
 
