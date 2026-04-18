@@ -14,8 +14,8 @@ import app as oc
 
 # Page configuration
 st.set_page_config(
-    page_title="Opportunity Inbox Copilot",
-    page_icon="🎯",
+    page_title="PrioriTEE",
+    page_icon="📨",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -254,7 +254,7 @@ def render_header():
     """Render main header"""
     st.markdown("""
     <div class="main-header">
-        <h1>🎯 Opportunity Inbox Copilot</h1>
+        <h1>📨PrioriTEE</h1>
         <p>AI-Powered Email Opportunity Detection & Personalized Ranking</p>
     </div>
     """, unsafe_allow_html=True)
