@@ -1,0 +1,44 @@
+[
+    {
+        "id": "email_001",
+        "subject": "🚀 Google Summer Internship 2025 - Apply Now!",
+        "from": "recruiting@google.com",
+        "body": "Google is hiring summer interns for 2025! \nDeadline: March 15, 2026\nEligibility: Current BS/MS students with CGPA >= 3.0\nRequired skills: Python, Machine Learning, Data Structures\nPreferred degrees: CS, SE, DS\nLocation: Remote or Hyderabad\nStipend: $8000/month\nRequired documents: Resume, Transcript, Cover Letter\nApply at: https://careers.google.com/internship\nContact: internship@google.com"
+    },
+    {
+        "id": "email_002",
+        "subject": "HEC Need-Based Scholarship for CS Students",
+        "from": "scholarships@hec.gov.pk",
+        "body": "Higher Education Commission announces need-based scholarship.\nDeadline: 2026-04-25\nEligibility: CGPA >= 2.5, financial need required\nDocuments: CNIC, fee slip, income certificate\nApply: https://scholarships.hec.gov.pk"
+    },
+    {
+        "id": "email_003",
+        "subject": "Weekly Newsletter: Tech Updates",
+        "from": "newsletter@techcrunch.com",
+        "body": "This week in tech: AI breakthroughs, new Python release."
+    },
+    {
+        "id": "email_004",
+        "subject": "FAST National Coding Competition 2025",
+        "from": "events@fastnu.edu.pk",
+        "body": "Register for the biggest coding competition in Pakistan!\nPrize pool: PKR 500,000\nDeadline for registration: May 10, 2026\nEligibility: All university students\nTeam size: 3 members\nRequired skills: DSA, Problem Solving\nLink: https://codingcomp.fastnu.edu.pk"
+    },
+    {
+        "id": "email_005",
+        "subject": "UN Fellowship for Climate Tech Innovators",
+        "from": "fellowships@un.org",
+        "body": "Fully funded fellowship for climate tech innovators.\nDuration: 6 months\nDeadline: June 1, 2026\nEligibility: Students with AI/Data Science skills, CGPA >= 3.2\nApply with: CV, Statement of Purpose, 2 Recommendations"
+    },
+    {
+        "id": "email_006",
+        "subject": "Your Amazon Order Confirmation",
+        "from": "no-reply@amazon.com",
+        "body": "Your package will be delivered tomorrow."
+    },
+    {
+        "id": "email_007",
+        "subject": "Microsoft Research Internship - AI Division",
+        "from": "research@microsoft.com",
+        "body": "Microsoft Research is hiring interns for AI division.\nDeadline: 2026-04-20\nRequirements: Strong ML background, Python, PyTorch\nCGPA >= 3.2 preferred\nLocation: Redmond, WA (Remote options)\nApply: https://microsoft.com/research-intern"
+    }
+]
