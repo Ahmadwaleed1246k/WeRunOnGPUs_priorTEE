@@ -1,4 +1,4 @@
-# 🎓 PrioirTEE
+# 🎓 PriorTEE
 
 **Parse, rank, and prioritize scholarship, internship, and competition emails – no API key required.**
 
